@@ -1,1 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
+
+@import url(/resources/scss/partials/_home.scss);
+
+// ___________________________________________________________________________
+
+body{
+    background-color: rgb(80, 185, 189);
+}

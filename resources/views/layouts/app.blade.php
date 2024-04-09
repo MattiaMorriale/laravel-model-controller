@@ -10,9 +10,7 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1 class="py-5">Ciao</h1>
-    </div>
+    @yield('content')
     
 </body>
 </html>
